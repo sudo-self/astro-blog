@@ -1,4 +1,5 @@
-![Blogster - Beautiful, accessible and performant Astroblog templates.](/gh-assets/gh-cover.png)
+
+![Screenshot 2024-02-06 at 10 17 53 PM](https://github.com/sudo-self/astro-blog/assets/119916323/175a8d05-24e9-4df6-9a12-86065ab27810)
 
 <p align="center">
     <table>
